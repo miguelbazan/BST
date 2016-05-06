@@ -4,21 +4,21 @@ Class for the Binary Search Tree with functions
 
 
 public:
- bool search(int data)<<endl;
-    bool add(int data);
-    void print(int tipo);
-    bool del (int dato);
-    int count();
-    int height();
-    void ancestors(int data);
-    int wherelevelIIam(int data);
-    int max_width();
-    int nearst_relative(int dato1, int dato2);
-    bool isBalanced();
-    bool operator==(BST arbol);
-    int elMayor();
-    int negativos2();
-    stack<int> arriba();
+ bool search(int data)<
+    bool add(int data)<
+    void print(int tipo)<
+    bool del (int dato)<
+    int count()<
+    int height()<
+    void ancestors(int data)<
+    int wherelevelIIam(int data)<
+    int max_width()<
+    int nearst_relative(int dato1, int dato2)<
+    bool isBalanced()<
+    bool operator==(BST arbol)<
+    int elMayor()<
+    int negativos2()<
+    stack<int> arriba()<
     
     
   private:
