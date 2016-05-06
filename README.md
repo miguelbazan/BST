@@ -3,7 +3,7 @@
 Class for the Binary Search Tree with functions
 
 
-public:
+public:<br />
  bool search(int data) <br />
     bool add(int data)<br />
     void print(int tipo)<br />
@@ -21,8 +21,8 @@ public:
     stack<int> arriba()<br />
     
     
-  private:
-    nodeT *root;
+  private:<br />
+    nodeT *root;<br />
     void preorden(nodeT *r);<br />
     void inorden (nodeT *r); <br />     
     void postorden(nodeT *r);<br />hol
