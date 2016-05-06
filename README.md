@@ -4,7 +4,7 @@ Class for the Binary Search Tree with functions
 
 
 public:
- bool search(int data);
+ bool search(int data)<<endl;
     bool add(int data);
     void print(int tipo);
     bool del (int dato);
