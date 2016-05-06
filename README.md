@@ -24,8 +24,8 @@ public:<br />
   private:<br />
     nodeT *root;<br />
     void preorden(nodeT *r);<br />
-    void inorden (nodeT *r); <br />     
-    void postorden(nodeT *r);<br />hol
+    void inorden (nodeT *r);<br />     
+    void postorden(nodeT *r);<br />
     void delAll(nodeT * r);<br />
     int CuantosHijos(nodeT *r);<br />
     int pred(nodeT *r);<br />
